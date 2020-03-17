@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7595d97e-49b7-4caf-9559-9155097a230e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../../bankata_api/src/main/java/bankata/api/bankata_api/controllers/BankataController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../bankata_api/src/main/java/bankata/api/bankata_api/domain/BankataService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../bankata_api/src/main/java/bankata/api/bankata_api/service/ITimeServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../bankata_api/src/main/java/bankata/api/bankata_api/service/TimeServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../bankata/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../bankata/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../bankata/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../bankata/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../bankata/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../bankata/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../bankata/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../bankata/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../bankata/src/main/java/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../bankata/src/main/java/BankBook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../bankata/src/test/java/BankataShould.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="ProjectId" id="1ZG5sEqlrCkPWsWHIsH4wTLZnMV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7595d97e-49b7-4caf-9559-9155097a230e" name="Default Changelist" comment="" />
+      <created>1584452794739</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584452794739</updated>
+    </task>
+    <servers />
+  </component>
+</project>
