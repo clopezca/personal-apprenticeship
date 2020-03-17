@@ -35,7 +35,6 @@ public class BankataControllerShould {
         TransactionUseCase transactionUseCase = new TransactionUseCase();
         transactionUseCase.amount = 1000;
         transactionUseCase.accountId = 199;
-        transactionUseCase.date = "17/03/2020";
         ResponseEntity<Object> response = bankataController.deposit(transactionUseCase);
 
         Assertions.assertEquals(HttpStatus.CREATED, response.getStatusCode());
