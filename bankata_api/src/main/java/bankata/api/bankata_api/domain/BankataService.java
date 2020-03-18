@@ -21,13 +21,13 @@ public class BankataService {
 
     public void deposit(int amount, int accountId) {
         Account account = repository.get(accountId);
-        account.add(new Deposit(amount, timeServer.getDate()));
+        account.deposit(amount, timeServer.getDate());
         repository.save(account, accountId);
     }
 
     public void withdraw(int amount, int accountId) {
         Account account = repository.get(accountId);
-        account.add(new Withdrawal(amount, timeServer.getDate()));
+        account.withdraw(amount, timeServer.getDate());
         repository.save(account, accountId);
     }
 
